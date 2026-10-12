@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Coin
+  - Trap
+  - Enemy
+  - MapExit
+  - Ladder
+  - Chest
+  - Item
+  - PlayerAttack
+  - Victory
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Chest
+  - BossProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4142682197
+    locked: 0
+  - name: Waterfall
+    uniqueID: 577933855
+    locked: 0
+  - name: Ground
+    uniqueID: 3450885675
+    locked: 0
+  - name: ForeGround
+    uniqueID: 383953825
+    locked: 0
+  - name: Coin
+    uniqueID: 2988885791
+    locked: 0
+  - name: Player
+    uniqueID: 3705157469
+    locked: 0
+  - name: Effect
+    uniqueID: 2128982671
+    locked: 0
+  - name: Ui
+    uniqueID: 2696658945
+    locked: 0
+  m_RenderingLayers:
+  - Default
